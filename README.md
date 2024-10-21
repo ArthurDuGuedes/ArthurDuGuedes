@@ -7,6 +7,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArthurGuedes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F813744226411844411%2F&psig=AOvVaw2lErERCEWsAFHzA1L1w6Xz&ust=1729627940563000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCuj72koIkDFQAAAAAdAAAAABAE)"  />
+
+
 ###
 
 <div align="left">
